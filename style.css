@@ -217,8 +217,7 @@
         .hero p {
             font-size: 1.1rem;
             line-height: 1.8;
-                font weight: 500;
-            color: var(--light-gray);
+            color: var(--white);
             margin-bottom: 30px;
             font-weight: 300;
             animation: fadeInUp 1s ease-out 0.6s both;
@@ -498,3 +497,4 @@
         }
 
     
+
