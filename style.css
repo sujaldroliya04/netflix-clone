@@ -464,7 +464,8 @@
             nav {
                 padding: 15px 20px;
             }
-
+                .logo{
+                        font-size: 1.5rem;
             .nav-links {
                 display: none;
             }
@@ -497,4 +498,5 @@
         }
 
     
+
 
