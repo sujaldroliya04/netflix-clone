@@ -217,6 +217,7 @@
         .hero p {
             font-size: 1.1rem;
             line-height: 1.8;
+                font weight: 500;
             color: var(--light-gray);
             margin-bottom: 30px;
             font-weight: 300;
@@ -495,4 +496,5 @@
                 gap: 30px;
             }
         }
+
     
